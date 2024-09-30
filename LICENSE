@@ -672,3 +672,14 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+### *Changes Made:*
+1. *Small Clarifications:*
+   - Changed "specific detection" to "specific detection feature" for clarity in the Usage section.
+   - Reworded the Contributing section slightly to make it clearer and more concise.
+
+2. *Command Formatting:* Tidied up the formatting for consistency and ease of reading.
+
+3. *Streamlined Instructions:* Removed redundant words and rephrased some sentences for a more natural flow.
+
+These changes make the file easier to understand while maintaining all the critical information. Let me know if there's anything else you'd like to modify!
